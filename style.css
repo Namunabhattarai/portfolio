@@ -1,0 +1,37 @@
+
+body{
+    background-color:gray;
+}
+#bg-img{
+    height:500px;
+    width:100%;
+    background-image: url("images/bg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+#about{
+    margin-top:-300px;
+
+}
+#about .fa{
+    color:rgb(82, 95, 124);
+}
+#skills{
+    background:gray;
+    margin-top:40px;
+
+}
+#myprojects{
+    background: gray;
+    margin-top:40px;
+
+}
+#educationalhistory{
+    background: gray;
+    margin-top:40px;
+
+}
+.row{
+
+}
